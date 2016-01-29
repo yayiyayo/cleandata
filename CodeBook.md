@@ -2,7 +2,8 @@
 
 ##data source
 The original data is downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
-Below 8 files are used in the analysis:
+Below 8 files are used in the analysis:  
+  
 1. "./UCI HAR Dataset/train/subject_train.txt":Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.   
 2. "./UCI HAR Dataset/train/X_train.txt":Training dataset
 3. "./UCI HAR Dataset/train/Y_train.txt":Training labels
